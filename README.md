@@ -7,10 +7,10 @@
     <div align="left">
         <table border=1>
             <tr>
-                <th colspan="4">Beginner</th>
+                <th colspan="5">Beginner</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="5"></th>
             </tr>
             <tr>
                 <th>#</th>
