@@ -147,7 +147,7 @@
             <tr>
                 <td align="center"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1018">1018</a></td>
                 <td align="center">Banknotes</td>
-                <td align="center"><a href="#">Code</a></td>
+                <td align="center"><a href="https://github.com/lucasrmagalhaes/desafios-URI/blob/main/Challenges/PHP/Beginner/1018%20-%20Banknotes/banknotes.php">Code</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
