@@ -148,25 +148,25 @@
                 <td align="center"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1018">1018</a></td>
                 <td align="center">Banknotes</td>
                 <td align="center"><a href="#">Code</a></td>
-                <td align="center">❌</td>
+                <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1019">1019</a></td>
                 <td align="center">Time Conversion</td>
-                <td align="center"><a href="#">Code</a></td>
-                <td align="center">❌</td>
+                <td align="center"><a href="https://github.com/lucasrmagalhaes/desafios-URI/blob/main/Challenges/PHP/Beginner/1019%20-%20Time%20Conversion/time_conversion.php">Code</a></td>
+                <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1020">1020</a></td>
                 <td align="center">Age in Days</td>
-                <td align="center"><a href="#">Code</a></td>
-                <td align="center">❌</td>
+                <td align="center"><a href="https://github.com/lucasrmagalhaes/desafios-URI/blob/main/Challenges/PHP/Beginner/1020%20-%20Age%20in%20Days/age_in_days.php">Code</a></td>
+                <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1021">1021</a></td>
                 <td align="center">Banknotes and Coins</td>
-                <td align="center"><a href="#">Code</a></td>
-                <td align="center">❌</td>
+                <td align="center"><a href="https://github.com/lucasrmagalhaes/desafios-URI/blob/main/Challenges/PHP/Beginner/1021%20-%20Banknotes%20and%20Coins/banknotes_and_coins.php">Code</a></td>
+                <td align="center">✅</td>
             </tr>
         </table>
 </details>
